@@ -1,0 +1,69 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for npm cache
+.npm
+
+# Environment variables
+.env
+.env.test
+.env.production
+.env.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Build directories and files
+build/
+dist/
+out/
+
+# Coverage directory used by testing frameworks
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Debug logs and crash reports
+npm-debug.log*
+yarn-debug.log*
+node_modules/.cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# TypeScript
+*.tsbuildinfo
+
+# Generated lock files
+package-lock.json
+yarn.lock
+
+# Jest snapshot files
+*.snap
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
